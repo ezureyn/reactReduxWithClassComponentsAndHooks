@@ -1,0 +1,68 @@
+html{
+    height: 100%;
+}
+
+body { 
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    min-height: 100%;
+    margin:0px;
+    padding: 0px;
+    background-color: lightyellow;
+}
+
+
+.App{
+    margin-bottom: 0;
+}
+
+.App-Container{
+    height: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    
+}
+
+.Counter-Row{
+    margin-top: 5%;
+    margin-bottom: 30%;
+}
+
+.App-Counter{
+    margin-top: 5px;
+    margin-bottom: auto;
+}
+
+.App-div{
+    margin-top: 2%;
+    margin-bottom: 0px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+}
+
+.App-Decreaser{
+    margin-left: 10px;
+}
+
+.Buttons-Row{
+    margin-bottom: 40%;
+    padding-bottom: 30%;
+}
+
+
+.App-IncreaserByTwo{
+    margin-left: 10px;
+}
+
+
+.App-SecondPage{
+    margin-top: 2%;
+    margin-bottom: 10%;
+    padding-bottom: 20%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}

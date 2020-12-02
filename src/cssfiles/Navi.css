@@ -1,0 +1,18 @@
+.span-1{
+    margin-left: 10px;
+    color: black;
+    font-weight: 500;
+    font-style: italic;
+    
+}
+
+.nav-item{
+    
+    color: black;
+    font-weight: 500;
+    font-style: inherit;
+    cursor:pointer;
+    
+}
+
+/*In order to align navitem to right use ml-auto in Nav className in Navi.js smilarly use mr-right to align navitems to left*/

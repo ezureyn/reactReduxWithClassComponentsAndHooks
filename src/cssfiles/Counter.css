@@ -1,0 +1,21 @@
+.Counter{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    
+}
+
+.Counter-h1{
+    text-align: center;
+    padding-bottom: 20%;
+}
+
+.Counter-h2-Row{
+   padding-bottom: 20%;
+}
+
+.Counter-h4-Row{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
